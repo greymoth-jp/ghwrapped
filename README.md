@@ -5,6 +5,8 @@ shareable **risograph Wrapped card** — stars, repos, followers, top language &
 
 Public data only. No token. No servers.
 
+<p align="center"><img src="media/card.png" width="380" alt="ghwrapped GitHub Wrapped card"></p>
+
 ```bash
 npm i -g ghwrapped
 ghwrapped sindresorhus              # print stats in the terminal
