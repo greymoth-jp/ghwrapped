@@ -1,0 +1,11 @@
+{
+  "name": "ghwrapped",
+  "version": "0.1.0",
+  "description": "Print your GitHub profile as a shareable risograph 'Wrapped' card from the terminal. Public data only, no token needed.",
+  "type": "module",
+  "bin": { "ghwrapped": "bin/cli.mjs" },
+  "files": ["bin", "src", "assets"],
+  "engines": { "node": ">=18" },
+  "keywords": ["github", "wrapped", "stats", "card", "profile", "cli", "svg"],
+  "license": "MIT"
+}
