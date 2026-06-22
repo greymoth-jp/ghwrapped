@@ -78,7 +78,7 @@ ${dots}
 
 <text x="${M}" y="1258" font-family="Mono" font-weight="700" font-size="40" fill="${INK}">GHWRAPPED</text>
 <rect x="${M}" y="1274" width="220" height="5" fill="${ACCENT}"/>
-<text x="${W - M}" y="1250" text-anchor="end" font-family="Mono" font-size="22" fill="${INK}">npm i -g ghwrapped</text>
+<text x="${W - M}" y="1250" text-anchor="end" font-family="Mono" font-size="22" fill="${INK}">npm i -g @greymoth/ghwrapped</text>
 <text x="${W - M}" y="1280" text-anchor="end" font-family="Mono" font-size="20" fill="${DIM}">local · open-source</text>
 </svg>`;
 }

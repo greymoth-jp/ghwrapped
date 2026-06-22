@@ -8,7 +8,7 @@ Public data only. No token. No servers.
 <p align="center"><img src="media/card.png" width="380" alt="ghwrapped GitHub Wrapped card"></p>
 
 ```bash
-npm i -g ghwrapped
+npm i -g @greymoth/ghwrapped
 ghwrapped sindresorhus              # print stats in the terminal
 ghwrapped sindresorhus --wrapped    # → github-wrapped-sindresorhus.svg (open in a browser, screenshot)
 ```

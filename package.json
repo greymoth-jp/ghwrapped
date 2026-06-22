@@ -1,5 +1,5 @@
 {
-  "name": "ghwrapped",
+  "name": "@greymoth/ghwrapped",
   "version": "0.1.0",
   "description": "Print your GitHub profile as a shareable risograph 'Wrapped' card from the terminal. Public data only, no token needed.",
   "type": "module",
@@ -7,5 +7,9 @@
   "files": ["bin", "src", "assets"],
   "engines": { "node": ">=18" },
   "keywords": ["github", "wrapped", "stats", "card", "profile", "cli", "svg"],
+  "author": "greymoth-jp",
+  "repository": { "type": "git", "url": "git+https://github.com/greymoth-jp/ghwrapped.git" },
+  "homepage": "https://github.com/greymoth-jp/ghwrapped#readme",
+  "bugs": { "url": "https://github.com/greymoth-jp/ghwrapped/issues" },
   "license": "MIT"
 }
