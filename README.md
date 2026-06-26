@@ -1,6 +1,8 @@
 # ghwrapped ✺
 
 **Your GitHub profile, printed.** A tiny CLI that turns any public GitHub profile into a beautiful,
+
+> 公開GitHubプロフィールをリソグラフ風のWrappedカードに変換する。公開データのみ・token不要。
 shareable **risograph Wrapped card** — stars, repos, followers, top language & repo.
 
 Public data only. No token. No servers.
